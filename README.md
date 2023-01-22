@@ -55,7 +55,7 @@ Railway
 
 
 
-![](./assets/arch.png)
+![](./assets/architect.png)
 
 ## User stories
 
